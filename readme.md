@@ -23,25 +23,9 @@
 
 
 
-<p align="center">
- <a href="https://sarausama80.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="sara" />
- </a>
- <a href="www.linkedin.com/in/sara-usama-19532a29a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sara"/>
- </a>
- <!-- <a href="https://dev.to/sara" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="sara" />
- </a> -->
- <a href="[https://twitter.com/sara0usama](https://x.com/sara0usama)" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/sara_usama910" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="sara" />
- </a> 
- <a href="[[https://facebook.com/alsiam.dev](https://www.facebook.com/profile.php?id=100004758049180)](https://www.facebook.com/profile.php?id=100004758049180)" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="sara"  />
-  </a> 
+
+
+
 </p>
 <br />
 
@@ -58,10 +42,42 @@
 
 </p>
 
+
+
+
+
+
+
 <br/>
 <br/>
 <br/>
 
+
+
+
+
+
+
+
+
+# contact me to help you any time❤️
+
+
+
+
+<a href="https://www.linkedin.com/in/sara-usama-19532a29a/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  
+  <a href="mailto:sarausama80@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+   <a href="https://x.com/sara0usama">
+      <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=0077B7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+ 
+ <a href="https://instagram.com/sara_usama910">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=D14834&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+
+ <a href="https://www.facebook.com/profile.php?id=100004758049180">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=0077B7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 
 
 ### 🛠 &nbsp;Tech Stack
